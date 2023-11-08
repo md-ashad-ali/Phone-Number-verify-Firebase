@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153782476305",
+    "project_id": "phoneauthnacation",
+    "storage_bucket": "phoneauthnacation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153782476305:android:0676f35f2066c145285bb0",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDnlPivnMJnyZsjlt7P48TrwjnNw6wDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
